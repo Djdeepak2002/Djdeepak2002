@@ -47,8 +47,10 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=djdeepak2002&show_icons=true&locale=en&layout=compact" />
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=djdeepak2002&theme=dark)](https://git.io/streak-stats)
+
