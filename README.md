@@ -48,10 +48,11 @@
 
 ## 📊 GitHub Stats
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=djdeepak2002&show_icons=true&locale=en&layout=compact" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=djdeepak2002&theme=dark&hide_border=true" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=djdeepak2002&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
