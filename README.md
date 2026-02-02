@@ -48,7 +48,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=djdeepak2002&theme=dark&hide_border=true&v=2)
+![GitHub Streak]([https://streak-stats.demolab.com/?user=djdeepak2002&theme=dark&hide_border=true&v=2](https://streak-stats.demolab.com/?user=djdeepak2002&theme=dark&hide_border=true))
 
 
 
