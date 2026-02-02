@@ -52,6 +52,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=djdeepak2002&show_icons=true&locale=en&layout=compact" />
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=djdeepak2002)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=djdeepak2002&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
